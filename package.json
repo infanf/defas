@@ -1,0 +1,26 @@
+{
+  "name": "defas",
+  "version": "0.0.1",
+  "description": "",
+  "main": "defas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infanf/defas.git"
+  },
+  "keywords": [
+    "defas",
+    "bayern",
+    "bahn",
+    "abfahrt",
+    "departure"
+  ],
+  "author": "Christopher Schreiner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infanf/defas/issues"
+  },
+  "homepage": "https://github.com/infanf/defas#readme"
+}
